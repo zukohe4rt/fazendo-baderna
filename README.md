@@ -12,4 +12,4 @@ php está morto eles disseram.
 
 ### Pré-requisito
 
-* [baixa os bagulho] (/folder/Readme.md)
+* [baixa os bagulho] (/tree/folder/Readme.md)
