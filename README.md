@@ -12,4 +12,4 @@ php está morto eles disseram.
 
 ### Pré-requisito
 
-* [baixa os bagulho] (/tree/folder/Readme.md)
+* [baixa os bagulho] (https://github.com/zukohe4rt/fazendo-baderna/blob/suave/folder/introdu%C3%A7%C3%A3o/Readme.md)
